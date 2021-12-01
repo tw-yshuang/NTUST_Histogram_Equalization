@@ -1,6 +1,6 @@
 from typing import List, Tuple
 from PIL import Image
-from math import ceil, floor
+from math import floor
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib
